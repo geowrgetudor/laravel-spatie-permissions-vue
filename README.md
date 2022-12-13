@@ -6,7 +6,7 @@ It supports SSR.
 
 ## Installation
 
-```json
+```bash
 composer require geowrgetudor/laravel-spatie-permissions-vue
 ```
 
